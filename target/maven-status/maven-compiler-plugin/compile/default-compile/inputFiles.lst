@@ -1,0 +1,6 @@
+/home/akshat/Desktop/StudySync/src/main/java/com/studysync/dao/UserDAO.java
+/home/akshat/Desktop/StudySync/src/main/java/com/studysync/entity/User.java
+/home/akshat/Desktop/StudySync/src/main/java/com/studysync/servlet/LoginServlet.java
+/home/akshat/Desktop/StudySync/src/main/java/com/studysync/servlet/LogoutServlet.java
+/home/akshat/Desktop/StudySync/src/main/java/com/studysync/servlet/RegisterServlet.java
+/home/akshat/Desktop/StudySync/src/main/java/com/studysync/util/HibernateUtil.java
